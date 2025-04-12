@@ -1,0 +1,22 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Концерт Imagine Dragons",
+      "date": "2025-04-20",
+      "description": "Концерт известной группы в Сеуле."
+    },
+    {
+      "id": "2",
+      "title": "Выставка современного искусства",
+      "date": "2025-05-15",
+      "description": "Экспозиция художников из Азии."
+    },
+    {
+      "id": "8b94",
+      "title": "korean speaking",
+      "date": "2025-04-04",
+      "description": "internation speaking event"
+    }
+  ]
+}
